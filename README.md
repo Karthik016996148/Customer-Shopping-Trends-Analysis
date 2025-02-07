@@ -34,7 +34,10 @@ This dataset contains:
 - Purchase history and payment methods
 - Seasonal trends and region-based insights
 
+![Customer Analytics Dashboard](images/Picture1.jpg)
 ---
+
+
 
 ## **Installation & Setup**
 To run the application, follow these steps:
