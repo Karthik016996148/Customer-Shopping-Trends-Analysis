@@ -34,7 +34,7 @@ This dataset contains:
 - Purchase history and payment methods
 - Seasonal trends and region-based insights
 
-![Customer Analytics Dashboard](images/Picture1.jpg)
+![Customer Analytics Dashboard](karthik/Picture1.jpg)
 ---
 
 
