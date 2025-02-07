@@ -1,4 +1,7 @@
 # Customer-Shopping-Trends-Analysis
 
 # Overview
-The Customer Shopping Trends Analytics Tool is a comprehensive application designed to help businesses manage and analyze sales data effectively. The tool provides actionable insights into customer shopping trends, enabling businesses to make informed decisions and optimize their strategies. The application is built using a combination of MySQL Workbench for database management, Tkinter for the graphical user interface (GUI), and Python for data processing and visualization.
+
+The Customer Shopping Analytics Tool is a data-driven application designed to help businesses effectively manage and analyze sales and customer data. It provides actionable insights into shopping trends to support strategic business planning and decision-making.
+
+The application streamlines daily sales operations by handling billing, inventory tracking, and employee management, while also offering advanced analytical capabilities for revenue forecasting, customer demographics, and product performance.
