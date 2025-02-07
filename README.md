@@ -35,7 +35,9 @@ This dataset contains:
 - Seasonal trends and region-based insights
 
 ![Customer Analytics Dashboard](images/Picture1.jpg)
+
 ![Database Schema](images/Picture2.jpg)
+
 ---
 
 ## **Installation & Setup**
